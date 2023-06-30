@@ -1,6 +1,6 @@
 # Google-Drive-clone
 
-his project is a Google Drive clone created as part of the DevTown bootcamp. It replicates the core features and user interface of Google Drive using HTML, CSS, and Bootstrap 5.
+This project is a Google Drive clone created as part of the DevTown bootcamp. It replicates the core features and user interface of Google Drive using HTML, CSS, and Bootstrap 5.
 
 # Project Overview
 
