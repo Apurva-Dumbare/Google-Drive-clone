@@ -18,6 +18,10 @@ sourcs code:
 
 https://codesandbox.io/s/great-violet-ts85vp?file=/index.html
 
+# output
+
+![image](https://github.com/Apurva-Dumbare/Google-Drive-clone/assets/138021715/bbd3796b-41da-460e-b0f8-64c8af2b0fd0)
+
 
 # certifications:
 
@@ -34,6 +38,3 @@ I am proud to have received a certificate from the Google Developer Student Club
 ![Screenshot 2023-06-30 104702](https://github.com/Apurva-Dumbare/Google-Drive-clone/assets/138021715/ae0dce81-6fb8-40fc-a1f8-2e5332808d65)
 
 
-# output
-
-![image](https://github.com/Apurva-Dumbare/Google-Drive-clone/assets/138021715/bbd3796b-41da-460e-b0f8-64c8af2b0fd0)
